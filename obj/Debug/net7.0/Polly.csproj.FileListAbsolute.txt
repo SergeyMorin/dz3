@@ -1,0 +1,15 @@
+C:\Users\Сергей\Downloads\giteducation\Examples\methods\Polly\bin\Debug\net7.0\Polly.exe
+C:\Users\Сергей\Downloads\giteducation\Examples\methods\Polly\bin\Debug\net7.0\Polly.deps.json
+C:\Users\Сергей\Downloads\giteducation\Examples\methods\Polly\bin\Debug\net7.0\Polly.runtimeconfig.json
+C:\Users\Сергей\Downloads\giteducation\Examples\methods\Polly\bin\Debug\net7.0\Polly.dll
+C:\Users\Сергей\Downloads\giteducation\Examples\methods\Polly\bin\Debug\net7.0\Polly.pdb
+C:\Users\Сергей\Downloads\giteducation\Examples\methods\Polly\obj\Debug\net7.0\Polly.csproj.AssemblyReference.cache
+C:\Users\Сергей\Downloads\giteducation\Examples\methods\Polly\obj\Debug\net7.0\Polly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Downloads\giteducation\Examples\methods\Polly\obj\Debug\net7.0\Polly.AssemblyInfoInputs.cache
+C:\Users\Сергей\Downloads\giteducation\Examples\methods\Polly\obj\Debug\net7.0\Polly.AssemblyInfo.cs
+C:\Users\Сергей\Downloads\giteducation\Examples\methods\Polly\obj\Debug\net7.0\Polly.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Downloads\giteducation\Examples\methods\Polly\obj\Debug\net7.0\Polly.dll
+C:\Users\Сергей\Downloads\giteducation\Examples\methods\Polly\obj\Debug\net7.0\refint\Polly.dll
+C:\Users\Сергей\Downloads\giteducation\Examples\methods\Polly\obj\Debug\net7.0\Polly.pdb
+C:\Users\Сергей\Downloads\giteducation\Examples\methods\Polly\obj\Debug\net7.0\Polly.genruntimeconfig.cache
+C:\Users\Сергей\Downloads\giteducation\Examples\methods\Polly\obj\Debug\net7.0\ref\Polly.dll

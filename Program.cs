@@ -1,5 +1,20 @@
-﻿
-int number = int.Parse(Console.ReadLine()!);
+﻿int number;
+
+while (true)
+{
+    Console.WriteLine("Введите пятизначное число");
+    number = int.Parse(Console.ReadLine()!);
+    if (number <= 9999 && number >= -9999)
+    {
+        Console.WriteLine("Некорректный ввод. Повторите попытку");
+    }
+    else
+    {
+        break;
+    }
+}
+
+number = Math.Abs(number);
 int temp = number;
 int i = 1;
 
